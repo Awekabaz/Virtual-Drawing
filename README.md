@@ -2,6 +2,7 @@
 Application to detect the object based on specific color range, contour detection and drawing. OpenCV library was used.
 
 In the code, 2 colors' parameters are provided to detect them and apply the mask with upper and lower limits to original frames. The color range can be extended. 
+
 Functionality:
   - Get contours of the object
   - The 'marker' point is determined as middle of points in contour set and highest y value
